@@ -7,4 +7,5 @@ public class Testklasse {
 	
 	int a = 0;
 	int c = 2;
+	int b = 3;
 }
