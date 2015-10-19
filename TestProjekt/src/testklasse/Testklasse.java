@@ -8,4 +8,6 @@ public class Testklasse {
 	int a = 0;
 	
 	//kommentar
+	int c = 2;
+	int b = 3;
 }
