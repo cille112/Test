@@ -6,4 +6,6 @@ public class Testklasse {
 	//dxcfvgbhnjmk,jmhgf
 	
 	int a = 0;
+	
+	//kommentar
 }
