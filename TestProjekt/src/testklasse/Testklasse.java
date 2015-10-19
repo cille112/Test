@@ -20,4 +20,5 @@ public class Testklasse {
 	//eksghoiasl
 	int g = 7;
 	//keosgkas
+	int h =5;
 }
