@@ -16,4 +16,5 @@ public class Testklasse {
 	int e = 4;
 	
 	//hej
+	int f = 5;
 }
