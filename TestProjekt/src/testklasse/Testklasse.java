@@ -6,4 +6,5 @@ public class Testklasse {
 	//dxcfvgbhnjmk,jmhgf
 	
 	int a = 0;
+	int c = 2;
 }
