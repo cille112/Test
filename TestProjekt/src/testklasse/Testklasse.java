@@ -12,4 +12,6 @@ public class Testklasse {
 	int b = 3;
 	
 	//ketasg
+	int d = 4;
+	int e = 4;
 }
